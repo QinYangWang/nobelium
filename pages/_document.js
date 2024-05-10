@@ -116,6 +116,13 @@ class MyDocument extends Document {
           `}
           </style>
           <script defer src="https://umami.qinyang.wang/script.js" data-website-id="ebc68a7d-8d35-407e-aa28-2ba6aeee1ef3"></script>
+          <script type="text/javascript">
+			(function(c,l,a,r,i,t,y){
+				c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+				t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+				y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+			})(window, document, "clarity", "script", "m9mttptycp");
+		  </script>
         </Head>
         <body className="bg-day dark:bg-night">
           <Main />
