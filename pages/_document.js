@@ -115,7 +115,7 @@ class MyDocument extends Document {
             }
           `}
           </style>
-          <script defer src="https://umami.qinyang.wang/script.js" data-website-id="ebc68a7d-8d35-407e-aa28-2ba6aeee1ef3"></script>
+	   <script async src="https://cdn.seline.so/seline.js" data-token="b15392173e06ca5"></script>
           <script id="clarity-script" strategy="afterInteractive">
           {`
             (function(c,l,a,r,i,t,y){
